@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there! I'm a Robotics & AI MEng student at UCL
 
-I'm passionate about **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
-
----
+- 🔭 I'm currently working on ... **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/charlene-chenn)
 
 ### 🛠️ Projects & Experience
 
@@ -26,16 +25,6 @@ I'm passionate about **machine learning**, **intelligent systems**, and **embodi
 - 🔊 Worked on **acoustic manipulation** research at **UCL**
 - 🏆 Won **HackLondon** with a real-time AI translator project
 
----
-
-### 💡 Community & Leadership
-
-I'm a core member of the **UCL Artificial Intelligence Society**, where we:
-- Host talks, workshops, and tutorials
-- Lead student-driven research projects
-- Make AI more accessible to all
-
----
 
 ### 🤝 Let’s Connect!
 
