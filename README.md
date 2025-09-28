@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi! I'm a Robotics & AI MEng student at UCL
+### Hi! I'm a Robotics & AI MEng student at UCL
 
 - 🔭 I'm currently working on **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
 - 🌱 I’m currently learning about neural interfaces, spatial, and edge computing.
 
-### 🤝 Let’s Connect!
+### Let’s Connect!
 
 I'm always up for learning, collaborating, or chatting about AI & robotics.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/charlene-chenn)
