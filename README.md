@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi! I'm a Robotics & AI MEng student at UCL
 
-- 🔭 I'm currently working on **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
-- 🌱 I’m currently learning about neural interfaces, spatial, and edge computing.
+🔭 I'm currently working on **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
+🌱 I’m currently learning about neural interfaces, spatial, and edge computing.
 
 ### Let’s Connect!
 
