@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ### 🤝 Let’s Connect!
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/charlene-chenn)
-
 I'm always up for learning, collaborating, or chatting about AI & robotics.
-
-Feel free to explore my [portfolio](https://charlene-chenn.github.io/github-portfolio/) or reach out!
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/charlene-chenn)
+- Feel free to explore my [portfolio](https://charlene-chenn.github.io/github-portfolio/) or reach out!
