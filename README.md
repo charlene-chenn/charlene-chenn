@@ -13,21 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there! I'm a Robotics & AI MEng student at UCL
+### 👋 Hi! I'm a Robotics & AI MEng student at UCL
 
-- 🔭 I'm currently working on ... **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/charlene-chenn)
-
-### 🛠️ Projects & Experience
-
-- 🤖 Researched **generative 3D models** at **Autodesk**
-- 🧠 Built **agentic AI systems** at **Cisco**
-- 🔊 Worked on **acoustic manipulation** research at **UCL**
-- 🏆 Won **HackLondon** with a real-time AI translator project
-
+- 🔭 I'm currently working on **machine learning**, **intelligent systems**, and **embodied AI** — especially where software meets hardware to solve real-world problems.
+- 🌱 I’m currently learning about neural interfaces, spatial, and edge computing.
 
 ### 🤝 Let’s Connect!
 
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/charlene-chenn)
 I'm always up for learning, collaborating, or chatting about AI & robotics.  
-Feel free to explore my projects or reach out!
-
+Feel free to explore my [portfolio](https://charlene-chenn.github.io/github-portfolio/) or reach out!
